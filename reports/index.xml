@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reports on Blog</title>
-    <link>tranvanthanh866.github.io/reports/</link>
+    <link>https://tranvanthanh866.github.io/reports/</link>
     <description>Recent content in Reports on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Fri, 27 Mar 2020 08:45:00 +0730</lastBuildDate>
     
-	<atom:link href="tranvanthanh866.github.io/reports/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tranvanthanh866.github.io/reports/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Report 20200326</title>
-      <link>tranvanthanh866.github.io/reports/report-20200326/</link>
+      <link>https://tranvanthanh866.github.io/reports/report-20200326/</link>
       <pubDate>Fri, 27 Mar 2020 08:45:00 +0730</pubDate>
       
-      <guid>tranvanthanh866.github.io/reports/report-20200326/</guid>
+      <guid>https://tranvanthanh866.github.io/reports/report-20200326/</guid>
       <description> Làm quen với ubuntu Setup app Read Micromill SEA infomation Read PHP coding convention Read some line basic termial on ubuntu Reaseach markdown typescript Reseach hugo and create site blog  </description>
     </item>
     

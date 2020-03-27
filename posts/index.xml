@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Blog</title>
-    <link>tranvanthanh866.github.io/posts/</link>
+    <link>https://tranvanthanh866.github.io/posts/</link>
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
     
-	<atom:link href="tranvanthanh866.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tranvanthanh866.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The first post</title>
-      <link>tranvanthanh866.github.io/posts/post-1/</link>
+      <link>https://tranvanthanh866.github.io/posts/post-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>tranvanthanh866.github.io/posts/post-1/</guid>
+      <guid>https://tranvanthanh866.github.io/posts/post-1/</guid>
       <description></description>
     </item>
     
