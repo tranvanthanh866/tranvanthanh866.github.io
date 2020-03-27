@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blog</title>
-    <link>http://example.org/tags/</link>
+    <link>tranvanthanh866.github.io/tags/</link>
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="tranvanthanh866.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Primer</title>
-      <link>http://example.org/tags/primer/</link>
+      <link>tranvanthanh866.github.io/tags/primer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/primer/</guid>
+      <guid>tranvanthanh866.github.io/tags/primer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>todo</title>
-      <link>http://example.org/tags/todo/</link>
+      <link>tranvanthanh866.github.io/tags/todo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/todo/</guid>
+      <guid>tranvanthanh866.github.io/tags/todo/</guid>
       <description></description>
     </item>
     
