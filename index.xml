@@ -13,12 +13,21 @@
     
     
     <item>
+      <title>Report 20200331</title>
+      <link>https://tranvanthanh866.github.io/reports/report-20200331/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tranvanthanh866.github.io/reports/report-20200331/</guid>
+      <description> Continue Read document of Survey system. create new survey. and test (all options type included)  </description>
+    </item>
+    
+    <item>
       <title>Report 20200330</title>
       <link>https://tranvanthanh866.github.io/reports/report-20200330/</link>
       <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://tranvanthanh866.github.io/reports/report-20200330/</guid>
-      <description> Introduce products and system. Setup local environment for dev. read the document of Survey system.  </description>
+      <description>Introduce products and system. Setup local environment for dev. Read document of Survey system.  How to add a question Detail question type: Text: is a question which user can fill input to answer the question having description video or images</description>
     </item>
     
     <item>
