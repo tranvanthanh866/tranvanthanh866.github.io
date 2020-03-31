@@ -7,47 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 1970 08:33:40 +0800</lastBuildDate>
     
 	<atom:link href="https://tranvanthanh866.github.io/reports/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Report 20200331</title>
-      <link>https://tranvanthanh866.github.io/reports/report-20200331/</link>
-      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://tranvanthanh866.github.io/reports/report-20200331/</guid>
-      <description> Continue Read document of Survey system. create new survey. and test (all options type included)  </description>
-    </item>
-    
-    <item>
-      <title>Report 20200330</title>
-      <link>https://tranvanthanh866.github.io/reports/report-20200330/</link>
-      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://tranvanthanh866.github.io/reports/report-20200330/</guid>
-      <description>Introduce products and system.
-  Setup local environment for dev.
-  Read document of Survey system.</description>
-    </item>
-    
-    <item>
-      <title>Report 20200326</title>
+      <title>Report</title>
       <link>https://tranvanthanh866.github.io/reports/report-20200326/</link>
-      <pubDate>Fri, 27 Mar 2020 08:45:00 +0730</pubDate>
+      <pubDate>Thu, 01 Jan 1970 08:33:40 +0800</pubDate>
       
       <guid>https://tranvanthanh866.github.io/reports/report-20200326/</guid>
-      <description> Làm quen với ubuntu Setup app Read Macromill SEA infomation Read PHP coding convention Read some line basic termial on ubuntu Reaseach markdown typescript Reseach hugo and create site blog  </description>
-    </item>
-    
-    <item>
-      <title>Report 20200327</title>
-      <link>https://tranvanthanh866.github.io/reports/report-20200327/</link>
-      <pubDate>Fri, 27 Mar 2020 06:45:00 +0730</pubDate>
-      
-      <guid>https://tranvanthanh866.github.io/reports/report-20200327/</guid>
-      <description> Up blog site to github Hack pass from http://testapi.wsgroup-asia.com/ Reseach about docker and docker-compose  </description>
+      <description>Report 20200326  Làm quen với ubuntu Setup app Read Macromill SEA infomation Read PHP coding convention Read some line basic termial on ubuntu Reaseach markdown typescript Reseach hugo and create site blog  Report 20200327  Up blog site to github Hack pass from http://testapi.</description>
     </item>
     
   </channel>
