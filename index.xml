@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Report 20200330</title>
+      <link>https://tranvanthanh866.github.io/reports/report-20200330/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tranvanthanh866.github.io/reports/report-20200330/</guid>
+      <description> Introduce products and system. Setup local environment for dev. read the document of Survey system.  </description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://tranvanthanh866.github.io/about/</link>
       <pubDate>Fri, 27 Mar 2020 08:45:00 +0730</pubDate>
@@ -20,7 +29,7 @@
       <guid>https://tranvanthanh866.github.io/about/</guid>
       <description>Hi there!!
 My name is Thanh.
-I come form Ha Tinh province.</description>
+I&amp;rsquo;m come form Ha Tinh province.</description>
     </item>
     
     <item>
