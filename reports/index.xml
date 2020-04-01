@@ -7,18 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Thu, 01 Jan 1970 08:33:40 +0800</lastBuildDate>
     
 	<atom:link href="https://tranvanthanh866.github.io/reports/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Report</title>
-      <link>https://tranvanthanh866.github.io/reports/report-20200326/</link>
-      <pubDate>Thu, 01 Jan 1970 08:33:40 +0800</pubDate>
+      <title>Report 20200326 - 20200331</title>
+      <link>https://tranvanthanh866.github.io/reports/20200326-20200331/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tranvanthanh866.github.io/reports/report-20200326/</guid>
+      <guid>https://tranvanthanh866.github.io/reports/20200326-20200331/</guid>
       <description>Report 20200326  Làm quen với ubuntu Setup app Read Macromill SEA infomation Read PHP coding convention Read some line basic termial on ubuntu Reaseach markdown typescript Reseach hugo and create site blog  Report 20200327  Up blog site to github Hack pass from http://testapi.</description>
+    </item>
+    
+    <item>
+      <title>Report 20200401 - </title>
+      <link>https://tranvanthanh866.github.io/reports/20200401-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tranvanthanh866.github.io/reports/20200401-/</guid>
+      <description>Report 20200401  Read code Survey system Reseach request life circle of Zen framework version 1.9 Add new route in Servey system  </description>
     </item>
     
   </channel>
