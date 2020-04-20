@@ -12,21 +12,21 @@
     
     
     <item>
+      <title>Report 2020 04</title>
+      <link>https://tranvanthanh866.github.io/reports/2020-04/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tranvanthanh866.github.io/reports/2020-04/</guid>
+      <description>Report 20200401  Read code Survey system Research request life circle of Zen framework version 1.9 Add new route in Survey system  Report 20200403  Understand Directory Structure Survey system Understand views structure Survey system Read code create and edit Survey Read code create and edit question  Report 20200406  Read detail rules add question of Question type: text, long text, MultiChoice, SingleChoice, Matrix[SingleChoice] &amp;hellip;  Report 20200407  Read detail Process Work of add question Survey System  Report 20200408  Read detail Process Work of add question Survey System Research docker Build docker example at https://github.</description>
+    </item>
+    
+    <item>
       <title>Report 20200326 - 20200331</title>
       <link>https://tranvanthanh866.github.io/reports/20200326-20200331/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tranvanthanh866.github.io/reports/20200326-20200331/</guid>
       <description>Report 20200326  Làm quen với ubuntu Setup app Read Macromill SEA infomation Read PHP coding convention Read some line basic termial on ubuntu Reaseach markdown typescript Reseach hugo and create site blog  Report 20200327  Up blog site to github Hack pass from http://testapi.</description>
-    </item>
-    
-    <item>
-      <title>Report 20200401 - 20200408</title>
-      <link>https://tranvanthanh866.github.io/reports/20200401-20200430/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tranvanthanh866.github.io/reports/20200401-20200430/</guid>
-      <description>Report 20200401  Read code Survey system Research request life circle of Zen framework version 1.9 Add new route in Survey system  Report 20200403  Understand Directory Structure Survey system Understand views structure Survey system Read code create and edit Survey Read code create and edit question  Report 20200406  Read detail rules add question of Question type: text, long text, MultiChoice, SingleChoice, Matrix[SingleChoice] &amp;hellip;  Report 20200407  Read detail Process Work of add question Survey System  Report 20200408  Read detail Process Work of add question Survey System Research docker Build docker example at https://github.</description>
     </item>
     
   </channel>
